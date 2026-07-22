@@ -12,7 +12,7 @@ Here I have implemented few graphs from the book using Python and matplotlib lib
 
 ## Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Venustiano/storytelling-with-data/add-binder-support?labpath=.)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Venustiano/storytelling-with-data/HEAD)
 
 Click the Binder badge above to launch this repository in a live Jupyter environment.
  
