@@ -9,6 +9,12 @@ The lessons in this illuminative text are grounded in theory, but made accessibl
 for immediate application to your next graph or presentation.
 
 Here I have implemented few graphs from the book using Python and matplotlib library. Kindly find well documented Jupyter Notebooks for plots.
+
+## Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Venustiano/storytelling-with-data/add-binder-support?labpath=.)
+
+Click the Binder badge above to launch this repository in a live Jupyter environment.
  
 ## Vertical & Horizontal Bars
 [Figure 0.5](vertical-bar/figure-0-5.ipynb)  |[Figure 3.34](horizontal-bar/figure-3-14.ipynb)
